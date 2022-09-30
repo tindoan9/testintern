@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+h3{
+    padding-bottom: 18px;
+}
 .container {
     width: 100%;
 }
